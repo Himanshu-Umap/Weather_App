@@ -1,0 +1,1 @@
+const openWhetherAPIKey = '60e27b07a8717bd41d3d85b9cff27a9e';
